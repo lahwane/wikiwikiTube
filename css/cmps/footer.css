@@ -1,0 +1,17 @@
+footer {
+    background-color: #eee;
+    padding: .8em;
+    border-radius: 5px;
+
+    font-size: .8em;
+}
+
+.keywords-container {
+    border-block-end: black solid 2px;
+    padding: .3em;
+}
+
+.btn-clear-history {
+    margin-block: .8em;
+}
+
